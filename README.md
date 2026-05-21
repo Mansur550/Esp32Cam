@@ -1,4 +1,4 @@
-<h1 align="center">⚖️ Smart AI Weighing & Billing System</h1>
+<h1 align="center">⚖️ Smart AI Weighting & Billing System</h1>
 
 <p align="center">
   <b>An embedded TinyML system that identifies items visually, measures weight, and calculates price in real time using ESP32-CAM, HX711, and Edge Impulse.</b>
