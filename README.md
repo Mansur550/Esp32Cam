@@ -245,7 +245,3 @@ It is especially useful in scenarios where fast response, offline capability, an
 If you found this project interesting, consider giving it a **star** on GitHub.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
